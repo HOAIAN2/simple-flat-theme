@@ -1,0 +1,26 @@
+{
+  "name": "simple-flat-theme",
+  "displayName": "Simple Flat Theme",
+  "description": "Simple flat dark/light themes",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Simple Flat Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Simple Flat Dark-color-theme.json"
+      },
+      {
+        "label": "Simple Flat Light",
+        "uiTheme": "vs",
+        "path": "./themes/Simple Flat Light-color-theme.json"
+      }
+    ]
+  }
+}
