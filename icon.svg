@@ -23,37 +23,71 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="1.0529882"
-     inkscape:cx="396.96551"
-     inkscape:cy="324.78996"
-     inkscape:window-width="2560"
-     inkscape:window-height="1490"
-     inkscape:window-x="-12"
-     inkscape:window-y="-12"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:zoom="1.4891502"
+     inkscape:cx="-0.33576196"
+     inkscape:cy="172.24589"
+     inkscape:window-width="2126"
+     inkscape:window-height="1395"
+     inkscape:window-x="149"
+     inkscape:window-y="90"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer2" />
   <defs
      id="defs1" />
   <g
-     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer2"
+     inkscape:label="Layer 2">
     <circle
-       style="fill:#ffffff;stroke-width:10;stroke-linecap:round;paint-order:markers stroke fill;stroke:#000000;stroke-opacity:1;fill-opacity:1"
-       id="path1"
+       style="display:inline;fill:#31343b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.99999;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.994036;paint-order:markers stroke fill"
+       id="path59"
        cx="50"
        cy="50"
-       r="39.951775" />
-    <text
-       xml:space="preserve"
-       style="font-size:52.9167px;font-family:'Javanese Text';-inkscape-font-specification:'Javanese Text, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke-width:10;stroke-linecap:round;paint-order:markers stroke fill"
-       x="50.025837"
-       y="68.939423"
-       id="text1"><tspan
-         sodipodi:role="line"
-         id="tspan1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:52.9167px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke-width:10"
-         x="50.025837"
-         y="68.939423">SF</tspan></text>
+       r="49.393383" />
+    <path
+       id="path25"
+       style="display:inline;fill:#6adcff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.994036;paint-order:markers stroke fill"
+       d="M 11.27063,67.436711 41.471887,50.000049 11.27063,32.563387 A 42.464096,42.641769 0 0 0 7.5359741,50.000049 42.464096,42.641769 0 0 0 11.27063,67.436711 Z" />
+    <path
+       id="path58"
+       style="fill:#ffc173;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.994036;paint-order:markers stroke fill"
+       d="M 88.736186 32.559253 L 58.52821 50.000049 L 88.729468 67.436711 A 42.464096 42.641769 0 0 0 92.464124 50.000049 A 42.464096 42.641769 0 0 0 88.736186 32.559253 z " />
+    <path
+       id="path57"
+       style="fill:#46baff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.994036;paint-order:markers stroke fill"
+       d="M 54.264388 42.614453 L 84.499752 25.157638 A 42.464096 42.641769 0 0 0 54.264388 7.5762817 L 54.264388 42.614453 z " />
+    <path
+       id="path51"
+       style="display:inline;fill:#b696ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.994036;paint-order:markers stroke fill"
+       d="M 54.264388,92.335449 A 42.464096,42.641769 0 0 0 84.422754,74.798018 L 54.264388,57.385645 Z" />
+    <path
+       id="path50"
+       style="fill:#84d5a1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.994036;paint-order:markers stroke fill"
+       d="M 45.73571 57.385645 L 15.577344 74.798018 A 42.464096 42.641769 0 0 0 45.73571 92.335449 L 45.73571 57.385645 z " />
+    <path
+       id="path42"
+       style="display:inline;fill:#f77a95;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.994036;paint-order:markers stroke fill"
+       d="M 45.73571,7.6646484 A 42.464096,42.641769 0 0 0 15.577344,25.202079 L 45.73571,42.614453 Z" />
+    <circle
+       style="display:inline;fill:#31343b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.21043;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.994036;paint-order:markers stroke fill"
+       id="path59-4"
+       cx="51.244225"
+       cy="48.724014"
+       r="31.714817"
+       transform="rotate(1.4441255)" />
+    <rect
+       style="display:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.99999;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.994036;paint-order:markers stroke fill"
+       id="rect36"
+       width="8.5283537"
+       height="135.92064"
+       x="-40.154331"
+       y="-13.147878"
+       ry="0.35534808"
+       inkscape:tile-cx="2.8427845"
+       inkscape:tile-cy="58.543596"
+       inkscape:tile-w="8.5283536"
+       inkscape:tile-h="135.92064"
+       inkscape:tile-x0="-1.4213923"
+       inkscape:tile-y0="-9.4167232" />
   </g>
 </svg>
