@@ -15,6 +15,10 @@
     "dark",
     "flat"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HOAIAN2/simple-flat-theme.git"
+  },
   "contributes": {
     "themes": [
       {
