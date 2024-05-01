@@ -1910,7 +1910,7 @@
 		"inputOption.activeBorder": "#007acc00",
 		"inputOption.activeForeground": "#ffffff",
 		"input.placeholderForeground": "#a6a6a6",
-		"textLink.foreground": "#3794ff",
+		"textLink.foreground": "#46baff",
 		"editor.background": "#31343b",
 		"editor.foreground": "#c9c9c9",
 		"editorLineNumber.foreground": "#858585",
