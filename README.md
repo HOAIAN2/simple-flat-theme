@@ -2,16 +2,44 @@
 
 I only code in web stack, so if color highlight not work well on your language, you can send a pull request:
 
+## Color Scheme for Windows Terminal
+
+```json
+{
+    "background": "#000000",
+    "black": "#000000",
+    "blue": "#46BAFF",
+    "brightBlack": "#808080",
+    "brightBlue": "#6ADCFF",
+    "brightCyan": "#6ADCFF",
+    "brightGreen": "#84D5A1",
+    "brightPurple": "#B696FF",
+    "brightRed": "#F77A95",
+    "brightWhite": "#E5E5E5",
+    "brightYellow": "#FFC173",
+    "cursorColor": "#F77A95",
+    "cyan": "#46BAFF",
+    "foreground": "#C9C9C9",
+    "green": "#84D5A1",
+    "name": "Simple Flat",
+    "purple": "#B696FF",
+    "red": "#F77A95",
+    "selectionBackground": "#FFFFFF",
+    "white": "#C9C9C9",
+    "yellow": "#FFC173"
+}
+  ```
+
 ## Screenshot
 
 ### JavaScript / TypeScript
 
-![Screenshot 2024-04-28 162626](https://github.com/HOAIAN2/simple-flat-theme/assets/98139595/f6a8a08b-95f0-4633-8108-55451a11bc44)
+![TS/JS](/images/Screenshot%202024-06-08%20195251.jpg)
 
 ### PHP
 
-![Screenshot 2024-04-28 162749](https://github.com/HOAIAN2/simple-flat-theme/assets/98139595/0566d294-998f-4507-906b-a7515410e542)
+![PHP](./images/Screenshot%202024-06-08%20195215.jpg)
 
 ### CSS
 
-![Screenshot 2024-04-28 162837](https://github.com/HOAIAN2/simple-flat-theme/assets/98139595/877d5f23-f624-409b-b783-75de7eed1f2a)
+![CSS](./images/Screenshot%202024-06-08%20195322.jpg)
