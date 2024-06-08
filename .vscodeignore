@@ -3,4 +3,4 @@
 .gitignore
 .editorconfig
 vsc-extension-quickstart.md
-/images
+images/
