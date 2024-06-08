@@ -1842,6 +1842,13 @@
 			"settings": {
 				"fontStyle": "italic"
 			}
+		},
+		{
+			"name": "punctuation.definition.variable",
+			"scope": "punctuation.definition.variable",
+			"settings": {
+				"foreground": "#46baff"
+			}
 		}
 	],
 	"colors": {

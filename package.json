@@ -1,37 +1,37 @@
 {
-  "name": "simple-flat-theme",
-  "displayName": "Simple Flat Theme",
-  "description": "Simple flat dark/light themes",
-  "version": "0.0.5",
-  "publisher": "HoaiAn",
-  "engines": {
-    "vscode": "^1.88.0"
-  },
-  "icon": "icon.png",
-  "categories": [
-    "Themes"
-  ],
-  "keywords": [
-    "theme",
-    "dark",
-    "flat"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/HOAIAN2/simple-flat-theme.git"
-  },
-  "contributes": {
-    "themes": [
-      {
-        "label": "Simple Flat Dark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Simple Flat Dark-color-theme.json"
-      },
-      {
-        "label": "Simple Flat Light",
-        "uiTheme": "vs",
-        "path": "./themes/Simple Flat Light-color-theme.json"
-      }
-    ]
-  }
+	"name": "simple-flat-theme",
+	"displayName": "Simple Flat Theme",
+	"description": "Simple flat dark/light themes",
+	"version": "0.0.6",
+	"publisher": "HoaiAn",
+	"engines": {
+		"vscode": "^1.88.0"
+	},
+	"icon": "icon.png",
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"theme",
+		"dark",
+		"flat"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/HOAIAN2/simple-flat-theme.git"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Simple Flat Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Simple Flat Dark-color-theme.json"
+			},
+			{
+				"label": "Simple Flat Light",
+				"uiTheme": "vs",
+				"path": "./themes/Simple Flat Light-color-theme.json"
+			}
+		]
+	}
 }
