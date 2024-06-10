@@ -6,7 +6,7 @@ I only code in web stack, so if color highlight not work well on your language, 
 
 ```json
 {
-    "background": "#000000",
+    "background": "#31343b",
     "black": "#000000",
     "blue": "#46BAFF",
     "brightBlack": "#808080",
