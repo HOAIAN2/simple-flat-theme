@@ -6,7 +6,8 @@ I only code in web stack, so if color highlight not work well on your language, 
 
 ```json
 {
-    "background": "#31343b",
+   "name": "Simple Flat",
+    "background": "#31343B",
     "black": "#000000",
     "blue": "#46BAFF",
     "brightBlack": "#808080",
@@ -18,15 +19,13 @@ I only code in web stack, so if color highlight not work well on your language, 
     "brightWhite": "#E5E5E5",
     "brightYellow": "#FFC173",
     "cursorColor": "#F77A95",
-    "cyan": "#46BAFF",
-    "foreground": "#C9C9C9",
-    "green": "#84D5A1",
-    "name": "Simple Flat",
-    "purple": "#B696FF",
-    "red": "#F77A95",
-    "selectionBackground": "#FFFFFF",
-    "white": "#C9C9C9",
-    "yellow": "#FFC173"
+    "cyan": "#46baff",
+    "green": "#84d5a1",
+    "purple": "#b696ff",
+    "red": "#f77a95",
+    "white": "#c9c9c9",
+    "yellow": "#ffc173",
+    "selectionBackground": "#FFFFFF"
 }
   ```
 
