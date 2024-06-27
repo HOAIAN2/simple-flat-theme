@@ -2,7 +2,7 @@
 	"name": "simple-flat-theme",
 	"displayName": "Simple Flat Theme",
 	"description": "Simple flat dark/light themes",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"publisher": "HoaiAn",
 	"engines": {
 		"vscode": "^1.88.0"
