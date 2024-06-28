@@ -2095,7 +2095,7 @@
 		"settings.focusedRowBackground": "#ffffff07",
 		"walkThrough.embeddedEditorBackground": "#00000050",
 		"breadcrumb.activeSelectionForeground": "#4e4e4e",
-		"editorGutter.commentRangeForeground": "#424242",
+		// "editorGutter.commentRangeForeground": "#424242",
 		"debugExceptionWidget.background": "#f3f3f3",
 		"debugExceptionWidget.border": "#d5d5d5"
 	}
