@@ -8,6 +8,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Initial release
 
-## [0.0.2]
+## [1.0.6]
 
-- Add icon
+- Release themes with Dark and Light mode
